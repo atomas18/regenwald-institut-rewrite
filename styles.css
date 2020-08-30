@@ -1,0 +1,26 @@
+
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+/* Center align the text within the three columns */
+
+.options .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.options h2 {
+  font-weight: 400;
+}
+.options .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.jumbotron {
+  background-color: white;
+}
